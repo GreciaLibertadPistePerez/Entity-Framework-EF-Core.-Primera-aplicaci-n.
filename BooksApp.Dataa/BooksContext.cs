@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using BooksApp.Domaiin;
 using Microsoft.EntityFrameworkCore;
 
 namespace BooksApp.Dataa
 {
-    class BooksContext:DbContext
+   public class BooksContext:DbContext
     {
         private const string connectionString = "Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = BooksAppData";
         public DbSet<Author> Authors { get; set; }

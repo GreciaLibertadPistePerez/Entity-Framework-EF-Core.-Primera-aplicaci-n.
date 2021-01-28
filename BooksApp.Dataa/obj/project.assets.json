@@ -2033,6 +2033,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BooksApp.Domaiin/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/BooksApp.Domaiin.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BooksApp.Domaiin.dll": {}
+        }
       }
     }
   },
@@ -7081,10 +7091,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BooksApp.Domaiin/1.0.0": {
+      "type": "project",
+      "path": "../BooksApp.Domaiin/BooksApp.Domaiin.csproj",
+      "msbuildProject": "../BooksApp.Domaiin/BooksApp.Domaiin.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
+      "BooksApp.Domaiin >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.2"
     ]
   },
@@ -7120,7 +7136,11 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\greci\\source\\repos\\BooksApp\\BooksApp.Domaiin\\BooksApp.Domaiin.csproj": {
+              "projectPath": "C:\\Users\\greci\\source\\repos\\BooksApp\\BooksApp.Domaiin\\BooksApp.Domaiin.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

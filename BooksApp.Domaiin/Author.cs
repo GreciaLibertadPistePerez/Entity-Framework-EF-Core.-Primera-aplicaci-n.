@@ -4,10 +4,12 @@ using System.Text;
 
 namespace BooksApp.Domaiin
 {
-    public class Author
+    public class Author 
     {
+        public int AuthorId;
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
+
     }
 }
