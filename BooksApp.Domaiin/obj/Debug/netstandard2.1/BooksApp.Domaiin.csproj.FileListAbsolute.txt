@@ -1,0 +1,9 @@
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\bin\Debug\netstandard2.1\BooksApp.Domaiin.deps.json
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\bin\Debug\netstandard2.1\BooksApp.Domaiin.dll
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\bin\Debug\netstandard2.1\BooksApp.Domaiin.pdb
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\obj\Debug\netstandard2.1\BooksApp.Domaiin.csprojAssemblyReference.cache
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\obj\Debug\netstandard2.1\BooksApp.Domaiin.AssemblyInfoInputs.cache
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\obj\Debug\netstandard2.1\BooksApp.Domaiin.AssemblyInfo.cs
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\obj\Debug\netstandard2.1\BooksApp.Domaiin.csproj.CoreCompileInputs.cache
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\obj\Debug\netstandard2.1\BooksApp.Domaiin.dll
+C:\Users\greci\source\repos\BooksApp\BooksApp.Domaiin\obj\Debug\netstandard2.1\BooksApp.Domaiin.pdb
