@@ -4,3 +4,9 @@ C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\Boo
 C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\BooksApp.Dataa.AssemblyInfoInputs.cache
 C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\BooksApp.Dataa.AssemblyInfo.cs
 C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\BooksApp.Dataa.csproj.CoreCompileInputs.cache
+C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\bin\Debug\netstandard2.1\BooksApp.Dataa.pdb
+C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\bin\Debug\netstandard2.1\BooksApp.Domaiin.dll
+C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\bin\Debug\netstandard2.1\BooksApp.Domaiin.pdb
+C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\BooksApp.Dataa.csproj.CopyComplete
+C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\BooksApp.Dataa.dll
+C:\Users\greci\source\repos\BooksApp\BooksApp.Dataa\obj\Debug\netstandard2.1\BooksApp.Dataa.pdb
